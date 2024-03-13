@@ -1,1 +1,1 @@
- Bellabeat case study of the data analytics Google certificate.
+ Bellabeat case study of the data analytics Google certificate!
